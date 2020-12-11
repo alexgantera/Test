@@ -1,4 +1,7 @@
 #!/bin/bash
+#AlexKormiltsev Begin
+#Add text
+#AlexKormiltsev End
 loadkeys ru
 setfont cyr-sun16
 clear
